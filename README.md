@@ -1,7 +1,7 @@
 flask-sass
 ==========
 
-**This project is not maintained and abandoned. Feel free to fork.**
+**I'll probably get bored of trying to fix this in a couple of days.**
 
 A small Flask extension that makes it easy to use Sass (SCSS) with your Flask application.
 
@@ -16,7 +16,7 @@ Code unabashedly adapted from https://github.com/weapp/flask-coffee2js.
 
 ### Install with PIP
 
-    pip install git+https://github.com/imiric/flask-sass.git#egg=flask-sass
+    pip install git+https://github.com/dvlpstrcrispin/flask-sass.git#egg=flask-sass
 
 
 ## Usage
